@@ -1,0 +1,16 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}  
+
+ul{
+    list-style: none;
+}
+
+
+/* paddin = espaçamento interno ao elemento 
+   margin = espaçamento externo 
+   list-style = estilo da lista, com bolinha, set, numero ou nada 
+ o ponto (.) seleciona uma classe do html
+ adicionando um (.) no css pode se determinar classes 
